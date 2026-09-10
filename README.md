@@ -1,6 +1,3 @@
-# Supply Chain Animation Video
-![Supply Chain Animation ](supply chain animation.mp4)
-
 # Nordmark Retail Group — Supply Chain Analytics Dashboard
 
 A Power BI dashboard project analyzing supply chain performance for **Nordmark Retail Group**, a mid-sized European omnichannel retailer selling home goods, lifestyle, and seasonal merchandise across physical stores and a growing e-commerce channel. The project transforms raw operational data — daily inventory snapshots, individual sales transactions, and inventory movements — into actionable insights across five interactive report pages.
