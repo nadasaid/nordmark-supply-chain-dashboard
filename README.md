@@ -1,5 +1,5 @@
 # Supply Chain Animation Video
-![Supply Chain Animation ](screenshots/sales_analysis.png))
+![Supply Chain Animation ](supply chain animation.mp4)
 
 # Nordmark Retail Group — Supply Chain Analytics Dashboard
 
