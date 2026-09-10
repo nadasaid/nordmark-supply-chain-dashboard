@@ -39,17 +39,17 @@ Sales performance over time, category and brand breakdowns, and the top 10 best-
 ### 🏆 Executive Analysis
 High-level KPIs for leadership — total revenue, profit margin, and a direct comparison of in-store vs. online channel performance to surface channel misalignment.
 
-![Executive Analysis](screenshots/executive_analysis.png)
+![Executive Analysis](screenshots/Executive-Analysis.png)
 
 ### 📦 Inventory Analysis
 The core operational page — current stock levels by store, category-level inventory, top products by stock, and a stock health overview flagging overstock, low inventory, and out-of-stock counts.
 
-![Inventory Analysis](screenshots/inventory_analysis.png)
+![Inventory Analysis](screenshots/Inventory_Analysis.png)
 
 ### 🚚 Movement Analysis
 Replenishment, sales, and adjustment movement trends over time, movement volume by type, and replenishment frequency by location.
 
-![Movement Analysis](screenshots/movement_analysis.png)
+![Movement Analysis](screenshots/Movement_Analysis.png)
 
 ## 🗂️ Data Model
 
